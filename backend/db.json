@@ -1,0 +1,21 @@
+{
+  "users": [
+    { "id": 1, "name": "Abhay Patel", "email": "abhay@example.com", "password": "pass123" },
+    { "id": 2, "name": "Riya Sharma", "email": "riya@example.com", "password": "riya456" },
+    { "id": 3, "name": "Aman Khan", "email": "aman@example.com", "password": "aman789" },
+    { "id": 4, "name": "Pooja Mehta", "email": "pooja@example.com", "password": "pooja321" },
+    { "id": 5, "name": "Vikram Joshi", "email": "vikram@example.com", "password": "vikram111" },
+    { "id": 6, "name": "Sneha Verma", "email": "sneha@example.com", "password": "sneha222" },
+    { "id": 7, "name": "Raj Malhotra", "email": "raj@example.com", "password": "raj333" },
+    { "id": 8, "name": "Neha Gupta", "email": "neha@example.com", "password": "neha444" },
+    { "id": 9, "name": "Karan Singh", "email": "karan@example.com", "password": "karan555" },
+    { "id": 10, "name": "Divya Rai", "email": "divya@example.com", "password": "divya666" }
+  ],
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 60000 },
+    { "id": 2, "name": "Smartphone", "price": 30000 },
+    { "id": 3, "name": "Headphones", "price": 2500 },
+    { "id": 4, "name": "Keyboard", "price": 1500 },
+    { "id": 5, "name": "Monitor", "price": 12000 }
+  ]
+}
