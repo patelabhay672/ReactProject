@@ -1,2 +1,30 @@
-For running backend server use =>  npx json-server db.json
-& for running frontend react => npm run dev
+# 🌐 Web Development Project
+
+A full-stack web application built with **React (Vite)** for frontend and **JSON Server** for mock backend API.
+
+---
+
+## 🚀 Tech Stack
+
+- 💻 Frontend: **React (Vite)**
+- 📡 Backend: **JSON Server**
+- 🎨 Styling: **Tailwind CSS**
+- ⚙️ Package Manager: **npm**
+
+---
+
+## 📦 Features
+
+- ✨ Responsive and modern UI
+- ⚡ Fast development with Vite
+- 🧪 Fake REST API using `json-server`
+- 🔁 Real-time CRUD operations
+
+---
+
+## 🛠️ How to Run the Project
+
+### 🔃 Start Backend (JSON Server)
+
+```bash
+npx json-server db.json --watch
