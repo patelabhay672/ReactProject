@@ -1,0 +1,2 @@
+For running backend server use =>  npx json-server db.json
+& for running frontend react => npm run dev
